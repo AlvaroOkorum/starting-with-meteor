@@ -1,8 +1,8 @@
 {
   "packages": {
     "quave:email-postmark": {
-      "from": "noreply@codeftw.dev",
-      "apiToken": "fedd0c18-5c64-46c2-91f7-6070858e7249"
+      "from": "alvaro.agudelo@okorum.com",
+      "apiToken": "bb45adf4-adb9-4132-b801-98bd6f7e2518"
     }
   }
 }
